@@ -1,7 +1,11 @@
 # utl-thoughts-on-efficient-approach-to-problem-counts-percents
 For tiny data like this it probably does not make a big difference how you do it.  
     For tiny data like this it probably does not make a big difference how you do it.                             
-                                                                                                                  
+         
+    github      
+    https://tinyurl.com/yxn2d9f7                                                                     
+    https://github.com/rogerjdeangelis/utl-thoughts-on-efficient-approach-to-problem-counts-percent    
+    
     SAS Forum                                                                                                     
     https://tinyurl.com/y2day524                                                                                  
     https://communities.sas.com/t5/SAS-Programming/Thoughts-on-efficient-approach-to-problem/m-p/585820           
